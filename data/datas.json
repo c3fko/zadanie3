@@ -8,5 +8,40 @@
         "portfolio6.jpg":"Web stránka 6",
         "portfolio7.jpg":"Web stránka 7",
         "portfolio8.jpg":"Web stránka 8"
+    },
+
+  "portfolio": {
+        "portfolio1.jpg": {
+            "title": "Web stránka 1",
+            "url": "https://www.youtube.com"
+        },
+        "portfolio2.jpg": {
+            "title": "Web stránka 2",
+            "url": "https://www.ukf.sk/"
+        },
+        "portfolio3.jpg": {
+            "title": "Web stránka 3",
+            "url": "https://priscilla.fitped.eu/course_content/61"
+        },
+        "portfolio4.jpg": {
+            "title": "Web stránka 4",
+            "url": "https://www.w3schools.com"
+        },
+        "portfolio5.jpg": {
+            "title": "Web stránka 5",
+            "url": "https://www.youtube.com"
+        },
+        "portfolio6.jpg": {
+            "title": "Web stránka 6",
+            "url": "https://ais2.ukf.sk/"
+        },
+        "portfolio7.jpg": {
+            "title": "Web stránka 7",
+            "url": "https://www.w3schools.com"
+        },
+        "portfolio8.jpg": {
+            "title": "Web stránka 8",
+            "url": "https://www.ukf.sk/"
+        }
     }
 }
